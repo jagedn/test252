@@ -1,0 +1,26 @@
+2016-03-09 16:51:54,825 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: test.TestController.index() is applicable for argument types: (java.lang.String) values: [kk=caca]
+Possible solutions: index(), render(java.lang.String), find(), render(groovy.lang.Closure), render(java.lang.CharSequence), render(java.lang.Object)
+	at org.codehaus.groovy.grails.plugins.web.api.ControllerTagLibraryApi.methodMissing(ControllerTagLibraryApi.java:97)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1426)
+	at test.TestIntegrationSpec.test params(TestIntegrationSpec.groovy:26)
+2016-03-09 16:51:54,836 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: test.TestController.index() is applicable for argument types: (java.lang.String) values: [kk=caca]
+Possible solutions: index(), render(java.lang.String), find(), render(groovy.lang.Closure), render(java.lang.CharSequence), render(java.lang.Object)
+	at test.TestIntegrationSpec.test params(TestIntegrationSpec.groovy:26)
+2016-03-09 16:51:54,840 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: test.TestController.index() is applicable for argument types: (java.lang.String) values: [kk=caca]
+Possible solutions: index(), render(java.lang.String), find(), render(groovy.lang.Closure), render(java.lang.CharSequence), render(java.lang.Object)
+	at test.TestIntegrationSpec.test params(TestIntegrationSpec.groovy:26)
+2016-03-09 16:51:54,842 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: test.TestController.index() is applicable for argument types: (java.lang.String) values: [kk=caca]
+Possible solutions: index(), render(java.lang.String), find(), render(groovy.lang.Closure), render(java.lang.CharSequence), render(java.lang.Object)
+	at test.TestIntegrationSpec.test params(TestIntegrationSpec.groovy:26)
+2016-03-09 16:51:54,849 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: test.TestController.index() is applicable for argument types: (java.lang.String) values: [kk=caca]
+Possible solutions: index(), render(java.lang.String), find(), render(groovy.lang.Closure), render(java.lang.CharSequence), render(java.lang.Object)
+	at test.TestIntegrationSpec.test params(TestIntegrationSpec.groovy:26)
+2016-03-09 16:51:54,850 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: test.TestController.index() is applicable for argument types: (java.lang.String) values: [kk=caca]
+Possible solutions: index(), render(java.lang.String), find(), render(groovy.lang.Closure), render(java.lang.CharSequence), render(java.lang.Object)
+	at test.TestIntegrationSpec.test params(TestIntegrationSpec.groovy:26)

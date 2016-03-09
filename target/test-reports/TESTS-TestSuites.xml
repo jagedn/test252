@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="msi-ubuntu" id="0" name="TestIntegrationSpec" package="test" skipped="0" tests="2" time="0.062" timestamp="2016-03-09T16:19:15">
+      <properties />
+
+      <testcase classname="test.TestIntegrationSpec" name="test something" time="0.051" />
+
+      <testcase classname="test.TestIntegrationSpec" name="test params" time="0.006" />
+
+      <system-out><![CDATA[--Output from test something--
+[:]
+[kk:kk]
+--Output from test params--
+[:]
+[kk:kk]
+]]></system-out>
+
+      <system-err><![CDATA[--Output from test something--
+--Output from test params--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="msi-ubuntu" id="1" name="TestSpec" package="test" skipped="0" tests="2" time="2.481" timestamp="2016-03-09T16:19:07">
+      <properties />
+
+      <testcase classname="test.TestSpec" name="test something" time="2.422" />
+
+      <testcase classname="test.TestSpec" name="test params" time="0.01" />
+
+      <system-out><![CDATA[--Output from test something--
+[:]
+[kk:kk]
+--Output from test params--
+[kk:caca]
+[kk:kk]
+]]></system-out>
+
+      <system-err><![CDATA[--Output from test something--
+--Output from test params--
+]]></system-err>
+
+  </testsuite>
+</testsuites>
